@@ -1,3 +1,9 @@
+##Objective
+The objective of this assignment is to build SocialNet, a command-line simulator for a social network’s backend services.
+This will implement core functionalities for managing users, friendships, and content.
+The primary goal is to apply understanding of AVL Trees and Graphs to a complex, practical application.
+
+
 # Project Compilation and Execution Instructions
 
 ## Requirements
